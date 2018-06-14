@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Steffy29/dashboard-project.svg?branch=master)](https://travis-ci.org/Steffy29/dashboard-project)
+
 # dashboard-project
 
 > A Vue.js project
