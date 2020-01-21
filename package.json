@@ -16,6 +16,7 @@
   "dependencies": {
     "buefy": "^0.6.6",
     "bulma-start": "0.0.2",
+    "css-loader": "^3.4.2",
     "node-sass": "^4.9.0",
     "sass-loader": "^7.0.3",
     "vue": "^2.5.2",
@@ -40,7 +41,6 @@
     "chromedriver": "^2.27.2",
     "copy-webpack-plugin": "^4.0.1",
     "cross-spawn": "^5.0.1",
-    "css-loader": "^0.28.11",
     "eslint": "^4.15.0",
     "eslint-config-standard": "^10.2.1",
     "eslint-friendly-formatter": "^3.0.0",
