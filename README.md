@@ -1,4 +1,5 @@
 # Dashboard-project
+[![Build Status](https://travis-ci.org/Steffy29/dashboard-project.svg?branch=master)](https://travis-ci.org/Steffy29/dashboard-project)
 
 > Team dashboard to follow task in progress
 
