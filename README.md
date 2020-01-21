@@ -1,6 +1,6 @@
-# dashboard-project
+# Dashboard-project
 
-> A Vue.js project
+> Team dashboard to follow task in progress
 
 ## Build Setup
 
