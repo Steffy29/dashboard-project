@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "buefy": "^0.6.6",
+    "buefy": "^0.7.2",
     "bulma-start": "0.0.2",
     "copy-webpack-plugin": "^5.1.1",
     "css-loader": "^3.4.2",
