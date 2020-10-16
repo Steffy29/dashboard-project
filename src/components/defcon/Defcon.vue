@@ -9,8 +9,8 @@
           </div>
         </div>
         <div class="column is-narrow">
-          <div v-for="def in defcons" v-bind:key="def.name" v-if="def.isActive" class="descr">
-            <div class="card">
+          <div v-for="def in defcons" v-bind:key="def.name" class="descr">
+            <div class="card" v-if="def.isActive">
               <header class="card-header">
                 <p class="card-header-title">
                   {{def.description.title}}
